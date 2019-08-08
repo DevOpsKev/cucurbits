@@ -28,7 +28,7 @@ When we test the basis of our beliefs, we may receive **Confirmation** of our be
 Cohort : People
   Criteria : Homo sapiens.
   Criteria : Have a Github account.
-  Criteria : Breathe oxygen.
+  Criteria : Live on this planet.
 
 Belief : The world needs a lightweight HDD framework to describe and test product hypotheses.
   Basis : Executable specification reduces ambiguity in the DevOps lifecycle.
