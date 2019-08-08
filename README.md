@@ -2,7 +2,7 @@
 
 # Cucerbits
 
-A DevOps native HDD framework written in Ruby, Cucurbits uses Gherkin like syntax to describe and test product hypotheses. 
+A DevOps Native HDD framework written in Ruby. Cucurbits uses Gherkin like syntax to describe and test product hypotheses.
 
 ### Some Links on HDD:
 
