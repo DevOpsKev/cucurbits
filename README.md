@@ -25,11 +25,11 @@ Within a belief file we describe the basis for those beliefs and methods to test
 
 
 ````
-Belief : 
-  Basis :
-      Test : 
-        Comfirmation : 
-        Revelation :
+Belief : The world needs a lightweight framework to describe and test product hypotheses in the CICD tool chain.
+  Basis : Executable specification of requirements has proven to reduce ambiguity in the development lifecycle.
+      Test : Release an opensource HDD framework which is developed in tools and languages that are familiar to developers and simple to implement.
+        Comfirmation : People download the framework and fork us on github to sustain opensource development.
+        Revelation : Noone is interested in solving this industry wide problem and we don't recieve a single fork.
 ````
 
 
