@@ -55,7 +55,7 @@ Belief : The world needs a lightweight HDD framework to describe and test produc
 
 8. Install **Terraform**.
 
-9. In the `./cucerbits-server` directory, you will find a **Terraform** example configuration file to deploy **Cucerbits** server named `cucurbits.tf`.
+9. In the `./cucerbits-server` directory, you will find a **Terraform** example configuration file to deploy **Cucerbits Server** named `cucurbits.tf`.
 
 10. Follow the instructions commented within the `cucurbits.tf` file to configure deployment for your environment.
 
