@@ -1,5 +1,3 @@
-<img src="https://github.com/TideKev/cucurbits/tree/master/images/cucumbers.png">
-
 # Cucurbits
 
 A DevOps Native HDD framework written in Ruby. Cucurbits uses Gherkin like syntax to describe and test product hypotheses.
