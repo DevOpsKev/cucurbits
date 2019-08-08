@@ -21,7 +21,8 @@ Cucerbits will aid copmmunication between Product Development and other contribu
 
 Cucerbits operates on a 'Belief System' and uses Gherkin like systnax to describe 'Beliefs' that are then stored in a '.belief' file. 
 
-Within a belief file we describe the basis for those beliefs and methods to test our beliefs. When we test the basis of our beliefs we will either recieve 'Confirmation' of our beliefs when those tests pass. When we test the basis of our beliefs and we are proven comprehensively wrong we will receive a revelation. It works like this.
+Within a belief file we describe the basis for those beliefs and methods to test our beliefs. When we test the basis of our beliefs we will either recieve 'Confirmation' of our beliefs when those tests pass. When we test the basis of our beliefs and we are proven comprehensively wrong we will receive a revelation. It works like this:
+
 
 ````
 Belief : The world needs a lightweight framework to describe and test product hypotheses in the CICD tool chain.
@@ -34,5 +35,6 @@ Comfirmation : People download the framework and fork us on github to sustain op
 
 Revelation : Noone is interested in solving this industry wide problem and we don't recieve a single fork.
 ````
+
 
 
