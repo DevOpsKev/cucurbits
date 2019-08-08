@@ -16,7 +16,7 @@ https://hackerchick.com/hypothesis-driven-development/
 
 DevOps needs a lightweight framework that will allow for executable specification of 'Product Hypothesis.' You can add Cucurbits to your toolchain and achieve complete automation from 'Idea' to 'Implementation.'
 
-Cucurbits will aid communication between Product Development and other contributors involved in the product delivery lifecycle.
+Cucurbits is an aid to communication between Product Development and other contributors involved in the product delivery lifecycle.
 Cucurbits operate on a 'Belief System' and uses Gherkin like syntax to describe 'Beliefs' stored in '.belief' files.
 
 Within a belief file, we describe the basis for our beliefs and methods to test our beliefs. 
