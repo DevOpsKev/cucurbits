@@ -63,7 +63,7 @@ Belief : The world needs a lightweight HDD framework to describe and test produc
 
 12. You now have a running **Cucerbits Server** in your environment.
 
-13. Subscribe to **Cucurbits** to receive either **'Confirmation'** of your **Beliefs** or a **'Revelation.'**
+13. Subscribe to **Cucurbits Server** to receive either **'Confirmation'** of your **Beliefs** or a **'Revelation.'**
 
 14. Check out the **Cucurbits Server UI** to browse your **Belief System**.
 
