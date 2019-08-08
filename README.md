@@ -25,9 +25,9 @@ Within a belief file we describe the basis for those beliefs and methods to test
 
 
 ````
-Belief : The world needs a lightweight framework to describe and test product hypotheses in the CICD tool chain.
+Belief : The world needs a lightweight HDD framework to describe and test product hypotheses.
 
-Basis : Executable specification of requirements has proven to reduce ambiguity in the development lifecycle.
+Basis : Executable specification of requirements reduces ambiguity in the development lifecycle.
 
 Test : Release an opensource HDD framework which is developed in tools and languages that are familiar to developers and simple to implement.
 
