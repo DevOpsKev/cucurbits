@@ -32,7 +32,7 @@ Belief : The world needs a lightweight HDD framework to describe and test produc
       Criteria : Developed in familiar tools and languages for engineers.
       Criteria : Infrastructure as Code deployable.
       Criteria : Capable of managing long-running tests.
-  Comfirmation : People download the framework, fork us on github and contribute to opensource development.
+  Comfirmation : People use the framework, fork us on github and contribute to opensource development.
   Revelation : Noone is interested, we don't recieve a single fork.
 ````
 
