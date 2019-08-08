@@ -12,7 +12,7 @@ https://www.thoughtworks.com/de/insights/blog/how-implement-hypothesis-driven-de
 
 https://hackerchick.com/hypothesis-driven-development/
 
-### Why Cucerbits?
+### Why Cucurbits?
 
 DevOps needs a lightweight framework that will allow for executable specification of 'Product Hypothesis.' You can add Cucurbits to your toolchain and achieve complete automation from 'Idea' to 'Implementation.'
 
