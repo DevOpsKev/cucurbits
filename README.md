@@ -14,7 +14,7 @@ https://hackerchick.com/hypothesis-driven-development/
 
 ### Why Cucurbits?
 
-DevOps needs a lightweight framework that will allow for executable specification of **Product Hypothesis**. You can add Cucurbits to your toolchain and achieve complete automation from **Idea** to **Implementation**.
+DevOps needs a lightweight framework that will allow for executable specification of **Product Hypothesis**. You can add **Cucurbits** to your toolchain and achieve complete automation from **Idea** to **Implementation**.
 
 **Cucurbits** is an aid to communication between **Product Development** and other contributors involved in the product delivery lifecycle.
 
