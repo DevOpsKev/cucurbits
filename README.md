@@ -37,5 +37,27 @@ Belief : The world needs a lightweight HDD framework to describe and test produc
   Revelation : Noone is interested, we don't recieve a single fork. People actually enjoy ambiguity.
 ````
 
+### How To Guide:
+
+1. Install Cucerbits
+2. Capture your 'Beliefs' in a .belief file.
+3. Run `cucerbits init` in the directory containing your .belief file.
+4. Cucerbits will generate two subdirectories `./cucerbits-tests` and `./cucerbits-server`.
+5. Within the `./cucerbits-tests` directory will be a file named `cucerbits-test-1.rb` containing code stubs to implement your live tests.
+6. Each 'Belief' to be 'Tested' in the `cucerbits-test-1.rb` will be issued with a 'Public Key'. You will need this when calling the Cucerbits server.
+7. Implement code to test your beliefs.
+8. Install 'Terraform'.
+9. In the `./cucerbits-server` directory you will find a Terraform example configuration file to deploy Cucerbits server named `cucerbits.tf`.
+10. Follow the instructions commented within the `cucerbits.tf` file to configure deployment for your own environment.
+11. From within the `./cucerbits-server` directory execute the commands `terraform init` and `terraform apply`.
+12. You now have a running Cucerbits server in your environment.
+14. Subscribe to Cucerbits to receive either 'Confirmation' of your beliefs or a 'Revelation'.
+15. Check out the Cucerbits Server UI to browse your Belief System.
+16. Notes:
+    1. Cucerbits Server will only start testing beliefs once it has received notification 'Test Criteria' have been deployesd.
+    2. If a given Beliefs 
+
+
+
 
 
