@@ -21,7 +21,7 @@ Cucurbits operate on a 'Belief System' and uses Gherkin like syntax to describe 
 
 Within a belief file, we describe the basis or bases for our beliefs and methods to test the bases of our beliefs. 
 
-When we test the basis of our beliefs, we may receive 'Confirmation' of our beliefs when those tests pass. When we test the basis of our beliefs, and we are proven comprehensively wrong, we will receive a revelation. The example below demonstratrs why we believe DevOps needs this framework, it works like this:
+When we test the basis of our beliefs, we may receive 'Confirmation' of our beliefs when those tests pass. When we test the basis of our beliefs, and we are proven comprehensively wrong, we will receive a revelation. The example below demonstraights why we believe DevOps needs this framework, it works like this:
 
 ````
 Belief : The world needs a lightweight HDD framework to describe and test product hypotheses.
