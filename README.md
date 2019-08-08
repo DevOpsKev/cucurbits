@@ -14,14 +14,14 @@ https://hackerchick.com/hypothesis-driven-development/
 
 ### Why Cucerbits?
 
-DevOps needs a lightweight framework that will allow for executable specification of 'Product Hypothesis'. You can add Cucerbits to your toolchain and achieve complete automation from 'Idea' to 'Implementation'.
+DevOps needs a lightweight framework that will allow for executable specification of 'Product Hypothesis.' You can add Cucurbits to your toolchain and achieve complete automation from 'Idea' to 'Implementation.'
 
-Cucerbits will aid copmmunication between Product Development and other contributors involved in the product delivery lifecycle. 
+Cucurbits will aid communication between Product Development and other contributors involved in the product delivery lifecycle.
+Cucurbits operate on a 'Belief System' and uses Gherkin like syntax to describe 'Beliefs' stored in '.belief' files.
 
-Cucerbits operates on a 'Belief System' and uses Gherkin like systnax to describe 'Beliefs' that are then stored in a '.belief' file. 
+Within a belief file, we describe the basis for our beliefs and methods to test our beliefs. 
 
-Within a belief file we describe the basis for those beliefs and methods to test our beliefs. When we test the basis of our beliefs we will either recieve 'Confirmation' of our beliefs when those tests pass. When we test the basis of our beliefs and we are proven comprehensively wrong we will receive a revelation. It works like this:
-
+When we test the basis of our beliefs, we may receive 'Confirmation' of our beliefs when those tests pass. When we test the basis of our beliefs, and we are proven comprehensively wrong, we will receive a revelation. It works like this:
 
 ````
 Belief : The world needs a lightweight HDD framework to describe and test product hypotheses.
