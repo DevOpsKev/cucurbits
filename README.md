@@ -30,7 +30,8 @@ Belief : The world needs a lightweight HDD framework to describe and test produc
 Basis : Executable specification reduces ambiguity in the DevOps lifecycle.
 
 Test : Release an opensource HDD framework 
-  Criteria : Familiar tools and languages for developers
+  Criteria : Must allow description of beliefs in natural language for non-technical people.
+  Criteria : Familiar tools and languages for engineers
   Criteria : Infrastructure as Code Deployable
   Criteria : Must be able to manage long running confirmaiton of test results
 
