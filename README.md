@@ -26,18 +26,14 @@ Within a belief file we describe the basis for those beliefs and methods to test
 
 ````
 Belief : The world needs a lightweight HDD framework to describe and test product hypotheses.
-
-Basis : Executable specification reduces ambiguity in the DevOps lifecycle.
-
-Test : Release an opensource HDD framework 
-  Criteria : Must allow description of beliefs in natural language for non-technical people.
-  Criteria : Familiar tools and languages for engineers
-  Criteria : Infrastructure as Code Deployable
-  Criteria : Must be able to manage long running confirmaiton of test results
-
-Comfirmation : People download the framework and fork us on github to sustain opensource development.
-
-Revelation : Noone is interested, we don't recieve a single fork.
+  Basis : Executable specification reduces ambiguity in the DevOps lifecycle.
+    Test : Release an opensource HDD framework 
+      Criteria : Must allow description of beliefs in natural language for non-technical people.
+      Criteria : Familiar tools and languages for engineers
+      Criteria : Infrastructure as Code Deployable
+      Criteria : Must be able to manage long running confirmaiton of test results
+  Comfirmation : People download the framework, fork us and contribute to opensource development.
+  Revelation : Noone is interested, we don't recieve a single fork.
 ````
 
 
