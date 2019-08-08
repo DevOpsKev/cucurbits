@@ -1,4 +1,4 @@
-<img src="https://github.com/TideKev/cucurbits/tree/master/images/cucmbers.png">
+<img src="https://github.com/TideKev/cucurbits/tree/master/images/cucumbers.png">
 
 # Cucurbits
 
