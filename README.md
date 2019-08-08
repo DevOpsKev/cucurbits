@@ -25,6 +25,11 @@ Within a **Belief** file, we describe the basis or bases for our beliefs and met
 When we test the basis of our beliefs, we may receive **Confirmation** of our beliefs when those tests pass. When we test the basis of our beliefs, and we are proven comprehensively wrong, we will receive a **Revelation**. The example below demonstrates why we believe DevOps needs this framework, it works like this:
 
 ````
+Cohort : People
+  Criteria : Homosapiens.
+  Criteria : Have a Github account.
+  Criteria : Breathe oxygen.
+
 Belief : The world needs a lightweight HDD framework to describe and test product hypotheses.
   Basis : Executable specification reduces ambiguity in the DevOps lifecycle.
     Test : Release an opensource HDD framework.
