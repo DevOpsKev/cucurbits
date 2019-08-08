@@ -34,7 +34,7 @@ Belief : The world needs a lightweight HDD framework to describe and test produc
       Criteria : Capable of managing long-running tests.
       AttentionSpan : 14 days
   Comfirmation : People use the framework, fork us on github and contribute to opensource development.
-  Revelation : Noone is interested, we don't recieve a single fork.
+  Revelation : Noone is interested, we don't recieve a single fork. People really do enjoy ambiguity.
 ````
 
 
