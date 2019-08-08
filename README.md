@@ -67,7 +67,7 @@ Belief : The world needs a lightweight HDD framework to describe and test produc
 
 14. Check out the Cucurbits Server UI to browse your Belief System.
 
-15 Additional notes:
+15. Additional notes:
     1. Cucurbits Server will only start testing beliefs once it has received notification 'Test Criteria' have been deployed.
     2. If a given Belief's AttentionSpan expires Cucurbits will stop testing that Belief.
     3. Each Belief is protected by a unique key pair, and you will need the public key when subscribing or publishing to a Belief.
