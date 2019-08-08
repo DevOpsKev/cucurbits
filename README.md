@@ -72,7 +72,4 @@ Belief : The world needs a lightweight HDD framework to describe and test produc
     2. If a given Belief's AttentionSpan expires Cucurbits will stop testing that Belief.
     3. Each Belief is protected by a unique key pair, you will need the public key when subscribing or publishing to a Belief.
     
-### Be amazed:
-
-<img src="https://gph.is/2NQEqir" >
 
