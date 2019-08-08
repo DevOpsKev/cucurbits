@@ -39,40 +39,35 @@ Belief : The world needs a lightweight HDD framework to describe and test produc
 
 ### How To Guide:
 
-1. Install Cucerbits
+1. Install Cucurbits.
 
 2. Capture your 'Beliefs' in a .belief file.
 
-3. Run `cucerbits init` in the directory containing your .belief file.
+3. Run `cucurbits init` in the directory containing your .belief file.
 
-4. Cucerbits will generate two subdirectories `./cucerbits-tests` and `./cucerbits-server`.
+4. Cucurbits will generate two subdirectories ./cucerbits-tests and ./cucerbits-server.
 
-5. Within the `./cucerbits-tests` directory will be a file named `cucerbits-test-1.rb` containing code stubs to implement your live tests.
+5. Within the `./cucerbits-tests` directory will be a file named `cucurbits-test-1.rb` containing code stubs to implement your live tests.
 
-6. Each 'Belief' to be 'Tested' in the `cucerbits-test-1.rb` will be issued with a 'Public Key'. You will need this when calling the Cucerbits server.
+6. Each 'Belief' to be 'Tested' in the cucurbits-test-1.rb will be issued with a 'Public Key.' You will need this when calling the Cucerbits server.
 
-7. Implement code to test your beliefs.
+7. Implement and deploy code to test your beliefs.
 
 8. Install 'Terraform'.
 
-9. In the `./cucerbits-server` directory you will find a Terraform example configuration file to deploy Cucerbits server named `cucerbits.tf`.
+9. In the ./cucerbits-server directory, you will find a Terraform example configuration file to deploy Cucerbits server named cucurbits.tf.
 
-10. Follow the instructions commented within the `cucerbits.tf` file to configure deployment for your own environment.
+10. Follow the instructions commented within the cucurbits.tf file to configure deployment for your environment.
 
-11. From within the `./cucerbits-server` directory execute the commands `terraform init` and `terraform apply`.
+11. From within the `./cucerbits-server` directory execute the commands terraform init and terraform apply.
 
 12. You now have a running Cucerbits server in your environment.
 
-14. Subscribe to Cucerbits to receive either 'Confirmation' of your beliefs or a 'Revelation'.
+13. Subscribe to Cucurbits to receive either 'Confirmation' of your beliefs or a 'Revelation.'
 
-15. Check out the Cucerbits Server UI to browse your Belief System.
+14. Check out the Cucurbits Server UI to browse your Belief System.
 
-16. Notes:
-    1. Cucerbits Server will only start testing beliefs once it has received notification 'Test Criteria' have been deployesd.
-    2. If a given Belief's AttentionSpan expires Cucerbits will stop testing that belief.
-    3. Each Belief is protected by a unique key pair and you will need this when subscribing or publishing to a Belief.
-
-
-
-
-
+15 Additional notes:
+    1. Cucurbits Server will only start testing beliefs once it has received notification 'Test Criteria' have been deployed.
+    2. If a given Belief's AttentionSpan expires Cucurbits will stop testing that Belief.
+    3. Each Belief is protected by a unique key pair, and you will need the public key when subscribing or publishing to a Belief.
