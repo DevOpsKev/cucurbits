@@ -42,7 +42,7 @@ Belief : The world needs a lightweight HDD framework to describe and test produc
 
 1. Install **Cucurbits**.
 
-2. Capture your **'Beliefs'** in a `.belief` file, eg: `the-world-needs-a-lightweight-hdd-framework.belief`.
+2. Capture your **Beliefs** in a `.belief` file, eg: `the-world-needs-a-lightweight-hdd-framework.belief`.
 
 3. Run `cucurbits init` in the directory containing your `.belief` file.
 
@@ -50,7 +50,7 @@ Belief : The world needs a lightweight HDD framework to describe and test produc
 
 5. Within the `./cucerbits-tests` directory will be a file named `cucurbits-test-1.rb` containing code stubs to implement your live tests.
 
-6. Each **'Belief'** to be **'Tested'** in the `cucurbits-test-1.rb` will be issued with a **Public Key.** You will need this when calling the **Cucerbits Service**.
+6. Each **Belief** to be **Tested** in the `cucurbits-test-1.rb` will be issued with a **Public Key.** You will need this when calling the **Cucerbits Service**.
 
 7. Implement and deploy code to test your beliefs.
 
