@@ -42,7 +42,7 @@ Belief : The world needs a lightweight HDD framework to describe and test produc
 
 1. Install **Cucurbits**.
 
-2. Capture your **'Beliefs'** in a `.belief` file, eg: `the-world-needs-a-lightweight-HDD-framework.belief`.
+2. Capture your **'Beliefs'** in a `.belief` file, eg: `the-world-needs-a-lightweight-hdd-framework.belief`.
 
 3. Run `cucurbits init` in the directory containing your `.belief` file.
 
