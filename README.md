@@ -23,7 +23,7 @@ Cucerbits operates on a 'Belief System' and uses Gherkin like systnax to describ
 
 Within a belief file we describe the basis for those beliefs and methods to test our beliefs. When we test the basis of our beliefs we will either recieve 'Confirmation' of our beliefs when those tests pass. When we test the basis of our beliefs and we are proven comprehensively wrong we will receive a revelation. It works like this.
 
-````gherkin
+````
 Belief : The world needs a lightweight framework to describe and test product hypotheses in the CICD tool chain.
 
 Basis : Executable specification of requirements has proven to reduce ambiguity in the development lifecycle.
@@ -34,6 +34,5 @@ Comfirmation : People download the framework and fork us on github to sustain op
 
 Revelation : Noone is interested in solving this industry wide problem and we don't recieve a single fork.
 ````
-
 
 
