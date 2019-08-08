@@ -24,14 +24,9 @@ Cucerbits operates on a belief system and uses Gherkin like systnax to describe 
 
 ````
 Belief : 
-
-Test : 
-  Comfirmation : 
-  Revelation :
-  
-Test : 
-  Comfirmation : 
-  Revelation :
+  Test : 
+    Comfirmation : 
+    Revelation :
 ````
 
 
