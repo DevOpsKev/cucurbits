@@ -74,5 +74,5 @@ Belief : The world needs a lightweight HDD framework to describe and test produc
     
 ### Be amazed:
 
-<img src="https://media.giphy.com/media/6y0KtNGlTyBRcj8GIy/giphy.gif" >
+<img src="https://gph.is/2NQEqir" >
 
