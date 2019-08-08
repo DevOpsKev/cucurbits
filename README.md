@@ -34,7 +34,7 @@ Belief : The world needs a lightweight HDD framework to describe and test produc
       Criteria : Infrastructure as Code deployable.
       Criteria : Capable of managing long-running tests.
       AttentionSpan : 14 days
-  Comfirmation : [>2000](People) forked us on Github AND [>100](People) contributed to opensource development.
+  Comfirmation : [>2000](People) forked us on Github AND [>100](People) contributed to the codebase.
   Revelation : [<10](People) forked us on Github. Noone is interested. People actually enjoy ambiguity.
 ````
 
