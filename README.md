@@ -26,7 +26,7 @@ When we test the basis of our beliefs, we may receive **Confirmation** of our be
 
 ````
 Cohort : People
-  Criteria : Homosapiens.
+  Criteria : Homo sapiens.
   Criteria : Have a Github account.
   Criteria : Breathe oxygen.
 
