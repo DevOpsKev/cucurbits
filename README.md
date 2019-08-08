@@ -6,9 +6,9 @@ A DevOps Native HDD framework written in Ruby. Cucurbits uses Gherkin like synta
 
 ### Some Links on HDD:
 
-https://opensource.com/article/19/6/why-hypothesis-driven-development-devops
-
 https://www.thoughtworks.com/de/insights/blog/how-implement-hypothesis-driven-development
+
+https://opensource.com/article/19/6/why-hypothesis-driven-development-devops
 
 https://hackerchick.com/hypothesis-driven-development/
 
