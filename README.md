@@ -5,6 +5,13 @@
 
 A Hypothesis Driven Development (HDD) framework written in Ruby. Cucerbits uses gherkin like syntax to describe and test product hypotheses. 
 
+Some Links on HDD:
+https://opensource.com/article/19/6/why-hypothesis-driven-development-devops
+
+https://www.thoughtworks.com/de/insights/blog/how-implement-hypothesis-driven-development
+
+https://hackerchick.com/hypothesis-driven-development/
+
 ### Why Cucerbits?
 
 DevOps needs a lightweight framework that will allow for executable specification of product hypothesis. You can add Cucerbits to your toolchain and achieve complete automation from 'Idea' to 'Done'.
@@ -18,10 +25,12 @@ Cucerbits operates on a belief system and uses Gherkin like systnax to describe 
 Belief : 
 
 Test : 
-
-Comfirmation : 
-
-Revelation : 
+  Comfirmation : 
+  Revelation :
+  
+Test : 
+  Comfirmation : 
+  Revelation :
 ````
 
 
