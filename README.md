@@ -29,11 +29,14 @@ Belief : The world needs a lightweight HDD framework to describe and test produc
 
 Basis : Executable specification reduces ambiguity in the DevOps lifecycle.
 
-Test : Release an opensource HDD framework which is developed in tools and languages that are familiar to developers and simple to implement.
+Test : Release an opensource HDD framework 
+  Criteria : Familiar tools and languages for developers
+  Criteria : Infrastructure as Code Deployable
+  Criteria : Must be able to manage long running confirmaiton of test results
 
 Comfirmation : People download the framework and fork us on github to sustain opensource development.
 
-Revelation : Noone is interested in solving this industry wide problem and we don't recieve a single fork.
+Revelation : Noone is interested, we don't recieve a single fork.
 ````
 
 
